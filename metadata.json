@@ -1,0 +1,6 @@
+{
+  "name": "Frosted Glass",
+  "description": "A frosted glass UI library and interactive playground with real blur intensity and custom presets for iOS, HyperOS, and ColorOS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
